@@ -1,0 +1,44 @@
+button.btn_start {
+
+	font-size: 1.4em;
+
+	font-weight: bold;
+
+	padding: 10px 30px;
+
+	background-color: #248;
+
+	color: #fff;
+
+	border-style: none;
+}
+
+button.btn_stop {
+
+	font-size: 1.4em;
+
+	font-weight: bold;
+
+	padding: 10px 30px;
+
+	background-color: #248;
+
+	color: #fff;
+
+	border-style: none;
+}
+
+button.btn_reset {
+
+	font-size: 1.4em;
+
+	font-weight: bold;
+
+	padding: 10px 30px;
+
+	background-color: #248;
+
+	color: #fff;
+
+	border-style: none;
+}
